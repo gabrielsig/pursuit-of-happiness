@@ -1,3 +1,3 @@
-Projeto final da disciplina DCA0446 - Tópicos Especiais em Processamento da Informação
+# Pursuit of Happiness - Data Science Project
 
-saiba mais em miguelrocahjr.com
+Projeto final da disciplina DCA0446 - Tópicos Especiais em Processamento da Informação
